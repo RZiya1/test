@@ -1,0 +1,6 @@
+vless://9aeb481a-365b-4c46-fc42-2fda5c976555@85.198.11.225:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://15e1d916-037d-4397-b30f-1cde68cc2bee@37.152.188.188:2083?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AAK2
+vless://7fa331af-750c-463a-bf28-913c8982f7e8@172.67.26.210:80?path=%2Fbackup&security=none&encryption=none&host=LlN8Lm.DIvaR.Pro&type=ws#%F0%9F%87%A9%F0%9F%87%AAK3
+trojan://dd3NuBkPbv@188.114.96.2:2087?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=grpc19101&sni=falk.unboundnet.ir#%F0%9F%87%A9%F0%9F%87%AAK4
+vmess://eyJhZGQiOiIxOTUuMTMzLjc1LjE2MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3YmFlOWZmYy01YWNkLTQxMmItZDVhYi1mNThmOGJlNDc3ZDkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjYwNjAiLCJwcyI6IvCfh7Pwn4exSzUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNi4xNzEuMTMuOTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTIwOWUzZTktZTY5MC00MGQ3LWExOWYtZTdjNDZlYjVkZWNjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MzkyMSIsInBzIjoi8J+HuPCfh6pLNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
