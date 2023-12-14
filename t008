@@ -1,0 +1,7 @@
+vless://25602e3c-e93d-4d03-fa46-3a891bee2b9f@85.198.11.225:443/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AAK1
+vless://61f25a9d-25be-46d7-869e-799726b0ffe0@37.152.188.188:2083/?encryption=none&host=zula.ir&type=tcp&headerType=http#%F0%9F%87%A9%F0%9F%87%AAK2
+trojan://dd3NuBkPbv@188.114.96.2:2087/?type=grpc&serviceName=grpc19101&security=tls&sni=falk.unboundnet.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AAK3
+vmess://eyJhZGQiOiI3OS4xNzUuMTMxLjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuZ29vZ2xlLmNvbSIsImlkIjoiMDU2ODM4ODYtM2MyZC1jYTZjLTIyNDktOWQwOTNiZWY5MDc1IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiODA2MCIsInBzIjoi8J+HqfCfh6pLNCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNi4xNzEuMTMuOTUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTIwOWUzZTktZTY5MC00MGQ3LWExOWYtZTdjNDZlYjVkZWNjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0MzkyMSIsInBzIjoi8J+HuPCfh6pLNSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://379da744-adc9-42dd-c1b7-95b6e8314c95@5.78.95.53:8443/?type=grpc&encryption=none&sni=ftp.debian.org&fp=firefox&security=reality&pbk=lZ3QfskldKpKO087SnpJNV6ZTcoJ6tbSzWceJbvqhAA&sid=d8915f18ee#%F0%9F%87%BA%F0%9F%87%B8K6
+vless://ee2dc39a-4d85-4cc2-b284-88fa97a70e29@45.82.139.140:2052/?encryption=none&host=Speed.cloudflare.com&type=tcp&headerType=http#%F0%9F%87%B9%F0%9F%87%B7K7
